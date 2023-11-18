@@ -1,4 +1,4 @@
-# public-key Ed25519 generator written in Go
+# Ed25519 public-key generator written in Go
 
 **A simple public/private key generator using Edwards-curve Digital Signature Algorithm (EdDSA)**
 
